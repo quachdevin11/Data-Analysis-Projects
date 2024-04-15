@@ -27,6 +27,10 @@ Like any other data analytics project, the dataset given was dirty and had many 
 Since there was no time data and more data regarding comparisons betweeen catergories, I felt that simple bar charts would help answer the first 2 questions. Additionally, since I am also exploring Excel I wanted to see it's capabilites with charts and maps. This really didn't help answer the questions but it does help provide more information about the dataset used. 
 
 # Results:
+
+**DASHBOARD**
+![Dashboard](https://github.com/quachdevin11/Data-Analysis-Projects/blob/main/Gaming%20and%20Mental%20Health/Mental_health_scores_dashboard.png)
+
 - **How do the different genders differ?**
   - From the Avg. Mental Health Scores - Gender bar graph, You can see that on average both males and females have mild anxiety but females are 1.5x more anxious than the males. For the SWL scores, both males and females are neutral but the males have a slightly higher satisfaction with life. Additionally, the largest gap between the two is with the social phobia. Males show no social phobia but females have mild social phobia.
  
