@@ -6,8 +6,8 @@ Since 2019, the USOPC has published annual Sport Benefits Statements for each of
 
 
 ## Dataset Overview:
-- **Sport Benefits Statements Data.xlsx - Aggregated data solely on the High-Performance Programs and Athlete Training Facilities 
-- **NGBHealthDataOuptut Extract.csv - Background information regarding each NGB including statistics such as membership, staff and revenue data
+- Sport Benefits Statements Data.xlsx - Aggregated data solely on the High-Performance Programs and Athlete Training Facilities 
+- NGBHealthDataOuptut Extract.csv - Background information regarding each NGB including statistics such as membership, staff and revenue data
 
 ## Process: 
 This project required cleaning, compiling, visualizing and communicating data using Excel and Tableau.  
